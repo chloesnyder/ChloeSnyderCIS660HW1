@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ef2bf49a-03c1-4f1d-bb13-043878b6996e}</UniqueIdentifier>
+      <Extensions>cpp</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{13a1d3d7-567a-49c8-bb40-74868de7f72b}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Miscellaneous Files">
+      <UniqueIdentifier>{c48bd772-855c-4ae8-8437-21540f8f94f9}</UniqueIdentifier>
+      <Extensions>txt</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>Miscellaneous Files</Filter>
+    </Text>
+    <Text Include="Options.txt">
+      <Filter>Miscellaneous Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Hello Maya - Chloe SnyderCmd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
